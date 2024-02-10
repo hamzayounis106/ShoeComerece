@@ -1,0 +1,31 @@
+.Recomended_container {
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: column;
+    margin-left: 12rem;
+    width: 85%;
+}
+
+button {
+    background-color: rgb(255, 255, 255);
+    margin: 8px;
+    padding: 3px 12px;
+    transition: all 0.1s ease-out;
+    border-radius: 4px;
+    cursor: pointer;
+    color: #303030;
+    border: 1px solid #303030;
+}
+
+h2 {
+    font-weight: 500;
+}
+
+button:hover {
+    transform: scale(1.1);
+    box-shadow: 2px 2px 4px 0px #777777;
+}
+
+.buttons_container:nth-child(1) {
+    margin-left: 0;
+}
