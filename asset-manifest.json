@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/ShoeComerece/static/css/main.c524de85.css",
+    "main.js": "/ShoeComerece/static/js/main.dc52e735.js",
+    "index.html": "/ShoeComerece/index.html",
+    "main.c524de85.css.map": "/ShoeComerece/static/css/main.c524de85.css.map",
+    "main.dc52e735.js.map": "/ShoeComerece/static/js/main.dc52e735.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c524de85.css",
+    "static/js/main.dc52e735.js"
+  ]
+}
