@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/ShoeComerece/static/css/main.c524de85.css",
-    "main.js": "/ShoeComerece/static/js/main.dc52e735.js",
+    "main.js": "/ShoeComerece/static/js/main.43b86daf.js",
     "index.html": "/ShoeComerece/index.html",
     "main.c524de85.css.map": "/ShoeComerece/static/css/main.c524de85.css.map",
-    "main.dc52e735.js.map": "/ShoeComerece/static/js/main.dc52e735.js.map"
+    "main.43b86daf.js.map": "/ShoeComerece/static/js/main.43b86daf.js.map"
   },
   "entrypoints": [
     "static/css/main.c524de85.css",
-    "static/js/main.dc52e735.js"
+    "static/js/main.43b86daf.js"
   ]
 }
