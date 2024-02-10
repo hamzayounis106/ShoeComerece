@@ -13,14 +13,14 @@ function Color({ handelChange }) {
             value=""
             title="All"
             color="All"
-            name="color"
+            name="category"
           />
           <Input
             handelChange={handelChange}
             value="black"
             title="Black"
             color="Black"
-            name="color"
+            name="category"
           />
 
           <Input
@@ -28,21 +28,21 @@ function Color({ handelChange }) {
             value="red"
             title="Red"
             color="Red"
-            name="color"
+            name="category"
           />
           <Input
             handelChange={handelChange}
             value="blue"
             title="Blue"
             color="Blue"
-            name="color"
+            name="category"
           />
           <Input
             handelChange={handelChange}
             value="green"
             title="Green"
             color="Green"
-            name="color"
+            name="category"
           />
         </div>
       </div>

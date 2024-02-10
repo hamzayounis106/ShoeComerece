@@ -11,32 +11,32 @@ function Price({handelChange}) {
             handelChange={handelChange}
             value=""
             title="All"
-            name="price"
+            name="category"
           />
           <Input
             handelChange={handelChange}
             value={50}
             title="$0-$50"
-            name="price"
+            name="category"
           />
 
           <Input
             handelChange={handelChange}
             value={100}
             title="$51-$100"
-            name="price"
+            name="category"
           />
           <Input
             handelChange={handelChange}
             value={150}
             title="$101- $150"
-            name="price"
+            name="category"
           />
           <Input
             handelChange={handelChange}
             value={200}
             title="Over $150"
-            name="price"
+            name="category"
           />
         </div>
       </div>
